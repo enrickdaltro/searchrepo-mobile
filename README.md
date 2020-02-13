@@ -28,6 +28,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+![Desafio06 (1)](https://user-images.githubusercontent.com/49761746/74468046-ef890d80-4e78-11ea-8234-3a8e216ea7bb.gif)
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
@@ -81,3 +83,5 @@ Exemplo de código:
 ```js
 <WebView source={{ uri: repository.html_url }} style={{ flex: 1 }} />
 ```
+
+![Screen Shot 2020-02-13 at 15 45 12](https://user-images.githubusercontent.com/49761746/74467508-f4998d00-4e77-11ea-8c07-3912373a5020.png)![Screen Shot 2020-02-13 at 15 45 25](https://user-images.githubusercontent.com/49761746/74467516-f6fbe700-4e77-11ea-9314-1c86a6baa7d7.png)![Screen Shot 2020-02-13 at 15 46 01](https://user-images.githubusercontent.com/49761746/74467521-f8c5aa80-4e77-11ea-8379-740687ac2473.png)
