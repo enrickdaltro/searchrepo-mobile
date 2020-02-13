@@ -69,18 +69,40 @@ export const Bio = styled.Text.attrs({
   text-align: center;
 `;
 
+export const Button = styled.View`
+  flex-direction: row;
+`;
+
 export const ProfileButton = styled(RectButton)`
   margin-top: 10px;
-  align-self: stretch;
+  width: 170px;
   border-radius: 4px;
   background: #7159c1;
   justify-content: center;
   align-items: center;
   height: 36px;
+  margin-right: 12px;
 `;
 
 export const ProfileButtonText = styled.Text`
   font-size: 14px;
   color: #fff;
+  text-transform: uppercase;
+`;
+
+export const ProfileDelButton = styled(RectButton)`
+  margin-top: 10px;
+  width: 170px;
+  border-radius: 4px;
+  border: 1px solid #7159c1;
+  background: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 36px;
+`;
+
+export const ProfileDelButtonText = styled.Text`
+  font-size: 14px;
+  color: #7159c1;
   text-transform: uppercase;
 `;
